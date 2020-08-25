@@ -25,3 +25,6 @@ Ques2:  Write a program in java to find max value in a given array?
 ## EXPERIMENT-5
 * Aim: Working with Maven Repository
 
+## EXPERIMENT-6
+* AIM: Create a simple Maven Project using CLI.
+
